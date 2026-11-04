@@ -1,0 +1,53 @@
+NULLPAT PASSWORD AUDIT REPORT
+============================================================
+Generated:            2026-11-04 09:09:57
+Overall risk rating:  CRITICAL
+
+SUMMARY
+------------------------------------------------------------
+Accounts analyzed:              27
+Cracked:                        23 (85.2%)
+Blank passwords:                2
+LM hashes present:               1
+Accounts reusing a password:     8
+Privileged accounts cracked:     2/2
+Username == password:            1
+Weak-pattern matches:            15
+
+TOP PASSWORDS
+------------------------------------------------------------
+      3  Summer2024!
+      3  Password1
+      2  Welcome123
+      1  P@ssw0rd1
+      1  Tr0ub4dor&3xtra
+      1  qwerty123
+      1  skumar
+      1  Autumn2023
+      1  Winter24!
+      1  letmein1
+      1  ChangeMe2024
+      1  backupSvc2022
+      1  sqlP@ss2021
+      1  Adm1n!2024
+      1  oct0ber2023
+      1  Qwerty!2024
+      1  OldSystem99
+      1  krbtgtRandomPW
+
+PASSWORD REUSE GROUPS
+------------------------------------------------------------
+  "Password1" -> 3 accounts: CORP\cwright, CORP\ewalsh, CORP\nhassan
+  "Summer2024!" -> 3 accounts: CORP\admin_j.doe, CORP\agarcia, CORP\jsmith
+  "Welcome123" -> 2 accounts: CORP\mkhan, CORP\rwilliams
+
+PRIVILEGED ACCOUNTS CRACKED
+------------------------------------------------------------
+  CORP\admin_j.doe               Summer2024!
+  CORP\r.admin                   Adm1n!2024
+
+------------------------------------------------------------
+Built by Ahmed Hasan (@BudSec)
+  LinkedIn: https://www.linkedin.com/in/budsec
+  GitHub  : https://github.com/pentesterahmed
+  YouTube : https://youtube.com/@BudSec

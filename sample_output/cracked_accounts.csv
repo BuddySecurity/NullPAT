@@ -1,0 +1,24 @@
+full_name,password,length,bucket,complexity_score,is_admin,is_disabled
+CORP\jsmith,Summer2024!,11,Moderate,4,False,False
+CORP\agarcia,Summer2024!,11,Moderate,4,False,False
+CORP\mkhan,Welcome123,10,Moderate,3,False,False
+CORP\rwilliams,Welcome123,10,Moderate,3,False,False
+CORP\tnguyen,P@ssw0rd1,9,Moderate,4,False,False
+CORP\lchen,Tr0ub4dor&3xtra,15,Stronger,4,False,False
+CORP\dbrown,qwerty123,9,Weak,2,False,False
+CORP\skumar,skumar,6,Very Weak,1,False,False
+CORP\jpatel,Autumn2023,10,Moderate,3,False,False
+CORP\bmoore,Winter24!,9,Moderate,4,False,False
+CORP\cwright,Password1,9,Moderate,3,False,False
+CORP\nhassan,Password1,9,Moderate,3,False,False
+CORP\ewalsh,Password1,9,Moderate,3,False,False
+CORP\kbarnes,letmein1,8,Weak,2,False,False
+CORP\vluong,ChangeMe2024,12,Stronger,3,False,False
+CORP\admin_j.doe,Summer2024!,11,Moderate,4,True,False
+CORP\svc_backup,backupSvc2022,13,Stronger,3,False,False
+CORP\svc_sql,sqlP@ss2021,11,Moderate,4,False,False
+CORP\r.admin,Adm1n!2024,10,Moderate,4,True,False
+CORP\o.sullivan,oct0ber2023,11,Weak,2,False,False
+CORP\q.zhang,Qwerty!2024,11,Moderate,4,False,False
+CORP\legacyuser,OldSystem99,11,Moderate,3,False,False
+CORP\krbtgt,krbtgtRandomPW,14,Moderate,2,False,False

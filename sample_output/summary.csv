@@ -1,0 +1,10 @@
+metric,value
+total_accounts,27
+cracked_count,23
+cracked_pct,85.19
+blank_passwords,2
+lm_hashes_present,1
+accounts_reusing_password,8
+privileged_accounts_cracked,2
+risk_rating,CRITICAL
+tool,NullPAT v1.1.0 by Ahmed Hasan (@BudSec)

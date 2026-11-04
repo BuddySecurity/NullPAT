@@ -1,0 +1,1090 @@
+{
+  "total_accounts": 27,
+  "generated_at": "2026-11-04 09:09:57",
+  "cracked_accounts": [
+    {
+      "domain": "CORP",
+      "username": "jsmith",
+      "full_name": "CORP\\jsmith",
+      "password": "Summer2024!",
+      "length": 11,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "agarcia",
+      "full_name": "CORP\\agarcia",
+      "password": "Summer2024!",
+      "length": 11,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "mkhan",
+      "full_name": "CORP\\mkhan",
+      "password": "Welcome123",
+      "length": 10,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "rwilliams",
+      "full_name": "CORP\\rwilliams",
+      "password": "Welcome123",
+      "length": 10,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "tnguyen",
+      "full_name": "CORP\\tnguyen",
+      "password": "P@ssw0rd1",
+      "length": 9,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "lchen",
+      "full_name": "CORP\\lchen",
+      "password": "Tr0ub4dor&3xtra",
+      "length": 15,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Stronger",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "dbrown",
+      "full_name": "CORP\\dbrown",
+      "password": "qwerty123",
+      "length": 9,
+      "has_upper": false,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 2,
+      "bucket": "Weak",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "skumar",
+      "full_name": "CORP\\skumar",
+      "password": "skumar",
+      "length": 6,
+      "has_upper": false,
+      "has_lower": true,
+      "has_digit": false,
+      "has_special": false,
+      "complexity_score": 1,
+      "bucket": "Very Weak",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "jpatel",
+      "full_name": "CORP\\jpatel",
+      "password": "Autumn2023",
+      "length": 10,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "bmoore",
+      "full_name": "CORP\\bmoore",
+      "password": "Winter24!",
+      "length": 9,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "cwright",
+      "full_name": "CORP\\cwright",
+      "password": "Password1",
+      "length": 9,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "nhassan",
+      "full_name": "CORP\\nhassan",
+      "password": "Password1",
+      "length": 9,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "ewalsh",
+      "full_name": "CORP\\ewalsh",
+      "password": "Password1",
+      "length": 9,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "kbarnes",
+      "full_name": "CORP\\kbarnes",
+      "password": "letmein1",
+      "length": 8,
+      "has_upper": false,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 2,
+      "bucket": "Weak",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "vluong",
+      "full_name": "CORP\\vluong",
+      "password": "ChangeMe2024",
+      "length": 12,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Stronger",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "admin_j.doe",
+      "full_name": "CORP\\admin_j.doe",
+      "password": "Summer2024!",
+      "length": 11,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": true,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "svc_backup",
+      "full_name": "CORP\\svc_backup",
+      "password": "backupSvc2022",
+      "length": 13,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Stronger",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "svc_sql",
+      "full_name": "CORP\\svc_sql",
+      "password": "sqlP@ss2021",
+      "length": 11,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "r.admin",
+      "full_name": "CORP\\r.admin",
+      "password": "Adm1n!2024",
+      "length": 10,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": true,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "o.sullivan",
+      "full_name": "CORP\\o.sullivan",
+      "password": "oct0ber2023",
+      "length": 11,
+      "has_upper": false,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 2,
+      "bucket": "Weak",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "q.zhang",
+      "full_name": "CORP\\q.zhang",
+      "password": "Qwerty!2024",
+      "length": 11,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "legacyuser",
+      "full_name": "CORP\\legacyuser",
+      "password": "OldSystem99",
+      "length": 11,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "krbtgt",
+      "full_name": "CORP\\krbtgt",
+      "password": "krbtgtRandomPW",
+      "length": 14,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": false,
+      "has_special": false,
+      "complexity_score": 2,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false
+    }
+  ],
+  "not_cracked_count": 2,
+  "cracked_count": 23,
+  "cracked_pct": 85.18518518518519,
+  "empty_password_accounts": [
+    "CORP\\gfoster",
+    "CORP\\hortega"
+  ],
+  "lm_present_accounts": [
+    "CORP\\legacyuser"
+  ],
+  "reuse_groups": [
+    {
+      "password": "Password1",
+      "count": 3,
+      "usernames": [
+        "CORP\\cwright",
+        "CORP\\ewalsh",
+        "CORP\\nhassan"
+      ]
+    },
+    {
+      "password": "Summer2024!",
+      "count": 3,
+      "usernames": [
+        "CORP\\admin_j.doe",
+        "CORP\\agarcia",
+        "CORP\\jsmith"
+      ]
+    },
+    {
+      "password": "Welcome123",
+      "count": 2,
+      "usernames": [
+        "CORP\\mkhan",
+        "CORP\\rwilliams"
+      ]
+    }
+  ],
+  "reused_account_count": 8,
+  "username_eq_password": [
+    {
+      "domain": "CORP",
+      "username": "skumar",
+      "full_name": "CORP\\skumar",
+      "password": "skumar",
+      "length": 6,
+      "has_upper": false,
+      "has_lower": true,
+      "has_digit": false,
+      "has_special": false,
+      "complexity_score": 1,
+      "bucket": "Very Weak",
+      "is_admin": false,
+      "is_disabled": false
+    }
+  ],
+  "length_distribution": {
+    "6": 1,
+    "8": 1,
+    "9": 6,
+    "10": 4,
+    "11": 7,
+    "12": 1,
+    "13": 1,
+    "14": 1,
+    "15": 1
+  },
+  "strength_breakdown": {
+    "Very Weak": 1,
+    "Weak": 3,
+    "Moderate": 16,
+    "Stronger": 3
+  },
+  "top_passwords": [
+    [
+      "Summer2024!",
+      3
+    ],
+    [
+      "Password1",
+      3
+    ],
+    [
+      "Welcome123",
+      2
+    ],
+    [
+      "P@ssw0rd1",
+      1
+    ],
+    [
+      "Tr0ub4dor&3xtra",
+      1
+    ],
+    [
+      "qwerty123",
+      1
+    ],
+    [
+      "skumar",
+      1
+    ],
+    [
+      "Autumn2023",
+      1
+    ],
+    [
+      "Winter24!",
+      1
+    ],
+    [
+      "letmein1",
+      1
+    ],
+    [
+      "ChangeMe2024",
+      1
+    ],
+    [
+      "backupSvc2022",
+      1
+    ],
+    [
+      "sqlP@ss2021",
+      1
+    ],
+    [
+      "Adm1n!2024",
+      1
+    ],
+    [
+      "oct0ber2023",
+      1
+    ],
+    [
+      "Qwerty!2024",
+      1
+    ],
+    [
+      "OldSystem99",
+      1
+    ],
+    [
+      "krbtgtRandomPW",
+      1
+    ]
+  ],
+  "admin_total": 2,
+  "admin_cracked": [
+    {
+      "domain": "CORP",
+      "username": "admin_j.doe",
+      "full_name": "CORP\\admin_j.doe",
+      "password": "Summer2024!",
+      "length": 11,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": true,
+      "is_disabled": false
+    },
+    {
+      "domain": "CORP",
+      "username": "r.admin",
+      "full_name": "CORP\\r.admin",
+      "password": "Adm1n!2024",
+      "length": 10,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": true,
+      "is_disabled": false
+    }
+  ],
+  "weak_pattern_hits": [
+    {
+      "domain": "CORP",
+      "username": "jsmith",
+      "full_name": "CORP\\jsmith",
+      "password": "Summer2024!",
+      "length": 11,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false,
+      "pattern_label": "season + year pattern"
+    },
+    {
+      "domain": "CORP",
+      "username": "agarcia",
+      "full_name": "CORP\\agarcia",
+      "password": "Summer2024!",
+      "length": 11,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false,
+      "pattern_label": "season + year pattern"
+    },
+    {
+      "domain": "CORP",
+      "username": "mkhan",
+      "full_name": "CORP\\mkhan",
+      "password": "Welcome123",
+      "length": 10,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false,
+      "pattern_label": "contains 'welcome'"
+    },
+    {
+      "domain": "CORP",
+      "username": "rwilliams",
+      "full_name": "CORP\\rwilliams",
+      "password": "Welcome123",
+      "length": 10,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false,
+      "pattern_label": "contains 'welcome'"
+    },
+    {
+      "domain": "CORP",
+      "username": "tnguyen",
+      "full_name": "CORP\\tnguyen",
+      "password": "P@ssw0rd1",
+      "length": 9,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false,
+      "pattern_label": "contains 'password'"
+    },
+    {
+      "domain": "CORP",
+      "username": "dbrown",
+      "full_name": "CORP\\dbrown",
+      "password": "qwerty123",
+      "length": 9,
+      "has_upper": false,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 2,
+      "bucket": "Weak",
+      "is_admin": false,
+      "is_disabled": false,
+      "pattern_label": "keyboard-walk pattern"
+    },
+    {
+      "domain": "CORP",
+      "username": "jpatel",
+      "full_name": "CORP\\jpatel",
+      "password": "Autumn2023",
+      "length": 10,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false,
+      "pattern_label": "season + year pattern"
+    },
+    {
+      "domain": "CORP",
+      "username": "bmoore",
+      "full_name": "CORP\\bmoore",
+      "password": "Winter24!",
+      "length": 9,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false,
+      "pattern_label": "season + year pattern"
+    },
+    {
+      "domain": "CORP",
+      "username": "cwright",
+      "full_name": "CORP\\cwright",
+      "password": "Password1",
+      "length": 9,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false,
+      "pattern_label": "contains 'password'"
+    },
+    {
+      "domain": "CORP",
+      "username": "nhassan",
+      "full_name": "CORP\\nhassan",
+      "password": "Password1",
+      "length": 9,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false,
+      "pattern_label": "contains 'password'"
+    },
+    {
+      "domain": "CORP",
+      "username": "ewalsh",
+      "full_name": "CORP\\ewalsh",
+      "password": "Password1",
+      "length": 9,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false,
+      "pattern_label": "contains 'password'"
+    },
+    {
+      "domain": "CORP",
+      "username": "kbarnes",
+      "full_name": "CORP\\kbarnes",
+      "password": "letmein1",
+      "length": 8,
+      "has_upper": false,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 2,
+      "bucket": "Weak",
+      "is_admin": false,
+      "is_disabled": false,
+      "pattern_label": "contains 'letmein'"
+    },
+    {
+      "domain": "CORP",
+      "username": "vluong",
+      "full_name": "CORP\\vluong",
+      "password": "ChangeMe2024",
+      "length": 12,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": false,
+      "complexity_score": 3,
+      "bucket": "Stronger",
+      "is_admin": false,
+      "is_disabled": false,
+      "pattern_label": "contains 'changeme'"
+    },
+    {
+      "domain": "CORP",
+      "username": "admin_j.doe",
+      "full_name": "CORP\\admin_j.doe",
+      "password": "Summer2024!",
+      "length": 11,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": true,
+      "is_disabled": false,
+      "pattern_label": "season + year pattern"
+    },
+    {
+      "domain": "CORP",
+      "username": "q.zhang",
+      "full_name": "CORP\\q.zhang",
+      "password": "Qwerty!2024",
+      "length": 11,
+      "has_upper": true,
+      "has_lower": true,
+      "has_digit": true,
+      "has_special": true,
+      "complexity_score": 4,
+      "bucket": "Moderate",
+      "is_admin": false,
+      "is_disabled": false,
+      "pattern_label": "keyboard-walk pattern"
+    }
+  ],
+  "short_password_count": 1,
+  "min_length_flag": 8,
+  "history_reuse": [
+    {
+      "username": "CORP\\rwilliams",
+      "recovered_count": 3,
+      "passwords": [
+        "Welcome122",
+        "Welcome121",
+        "Welcome123"
+      ]
+    },
+    {
+      "username": "CORP\\cwright",
+      "recovered_count": 2,
+      "passwords": [
+        "Password1",
+        "Password1"
+      ]
+    }
+  ],
+  "unique_nt_hashes": 21,
+  "unique_passwords": 18,
+  "length_stats": {
+    "min": 6,
+    "max": 15,
+    "avg": 10.391304347826088,
+    "median": 10
+  },
+  "composition": [
+    [
+      "Contains uppercase",
+      19
+    ],
+    [
+      "Contains lowercase",
+      23
+    ],
+    [
+      "Contains digit",
+      21
+    ],
+    [
+      "Contains special character",
+      9
+    ],
+    [
+      "Lowercase letters only",
+      1
+    ],
+    [
+      "Digits only",
+      0
+    ],
+    [
+      "Letters only (no digit / special)",
+      2
+    ],
+    [
+      "All four character classes",
+      9
+    ],
+    [
+      "Ends with a digit",
+      16
+    ],
+    [
+      "Starts uppercase + ends digit/symbol",
+      15
+    ],
+    [
+      "Contains a year (19xx / 20xx)",
+      10
+    ],
+    [
+      "Meets policy (>= 8 chars, 3+ classes)",
+      18
+    ]
+  ],
+  "complexity_distribution": [
+    [
+      1,
+      1
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      3,
+      9
+    ],
+    [
+      4,
+      9
+    ]
+  ],
+  "domain_breakdown": [
+    {
+      "domain": "CORP",
+      "total": 27,
+      "cracked": 23,
+      "blank": 2,
+      "not_cracked": 2
+    }
+  ],
+  "admin_found": [
+    "admin_j.doe",
+    "r.admin"
+  ],
+  "admin_not_found": [],
+  "admin_blank": [],
+  "disabled_total": 0,
+  "disabled_cracked": 0,
+  "enabled_cracked": 23,
+  "reuse_group_count": 3,
+  "largest_reuse": {
+    "password": "Password1",
+    "count": 3,
+    "usernames": [
+      "CORP\\cwright",
+      "CORP\\ewalsh",
+      "CORP\\nhassan"
+    ]
+  },
+  "history_account_count": 2,
+  "below_complexity_count": 5,
+  "meta": {
+    "tool": "NullPAT",
+    "version": "1.1.0",
+    "author": "Ahmed Hasan (@BudSec)",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/budsec",
+      "github": "https://github.com/pentesterahmed",
+      "youtube": "https://youtube.com/@BudSec"
+    },
+    "target_name": "Demo Corp",
+    "risk_rating": "CRITICAL",
+    "findings": [
+      {
+        "id": "NP-01",
+        "severity": "Critical",
+        "title": "Passwords recovered from the hash dump",
+        "count": 23,
+        "pct": "85.2%",
+        "base": 27,
+        "impact": "Every cracked account can be authenticated to by anyone holding the hash dump; the credentials are effectively public to an attacker.",
+        "recommendation": "Force a password reset for every cracked account, enforce a longer minimum length (14+), and deploy a banned-password list.",
+        "anchor": "accounts"
+      },
+      {
+        "id": "NP-02",
+        "severity": "Critical",
+        "title": "Privileged accounts with recovered / blank passwords",
+        "count": 2,
+        "pct": "100.0%",
+        "base": 2,
+        "impact": "Compromise of a privileged credential typically means full domain takeover.",
+        "recommendation": "Rotate immediately, move to long random passwords / passphrases, enforce MFA and tiered admin accounts, and use gMSA / LAPS where applicable.",
+        "anchor": "privileged"
+      },
+      {
+        "id": "NP-03",
+        "severity": "Critical",
+        "title": "Accounts with blank (empty) passwords",
+        "count": 2,
+        "pct": "7.4%",
+        "base": 27,
+        "impact": "Accounts can be accessed with no secret at all.",
+        "recommendation": "Set a strong password or disable the accounts; enable 'password not required' auditing.",
+        "anchor": "blanklm"
+      },
+      {
+        "id": "NP-04",
+        "severity": "High",
+        "title": "Accounts sharing a reused password",
+        "count": 8,
+        "pct": "29.6%",
+        "base": 27,
+        "impact": "One compromised password unlocks every account in its group (lateral movement / blast radius).",
+        "recommendation": "Force unique passwords per account; investigate shared / service credentials.",
+        "anchor": "reuse"
+      },
+      {
+        "id": "NP-05",
+        "severity": "High",
+        "title": "Username equals password",
+        "count": 1,
+        "pct": "3.7%",
+        "base": 27,
+        "impact": "Trivially guessable - the first thing any password-spray tries.",
+        "recommendation": "Reset and block passwords that contain or equal the account name.",
+        "anchor": "ueq"
+      },
+      {
+        "id": "NP-06",
+        "severity": "High",
+        "title": "Legacy LM hashes still stored",
+        "count": 1,
+        "pct": "3.7%",
+        "base": 27,
+        "impact": "LM hashes are split-and-uppercased and are cracked almost instantly.",
+        "recommendation": "Enable 'Do not store LAN Manager hash value on next password change' and rotate affected passwords.",
+        "anchor": "blanklm"
+      },
+      {
+        "id": "NP-07",
+        "severity": "High",
+        "title": "Passwords matching common weak patterns",
+        "count": 15,
+        "pct": "65.2%",
+        "base": 23,
+        "impact": "Season/year, 'password', keyboard-walk and company-name patterns are the first guesses in any spray or wordlist.",
+        "recommendation": "Add the matched patterns to a banned-password list (Azure AD Password Protection / custom filter).",
+        "anchor": "weak"
+      },
+      {
+        "id": "NP-08",
+        "severity": "Medium",
+        "title": "Passwords shorter than the 8-character policy",
+        "count": 1,
+        "pct": "4.3%",
+        "base": 23,
+        "impact": "Short passwords fall quickly to brute force even when they look complex.",
+        "recommendation": "Raise the minimum length to at least 14 characters and favour passphrases.",
+        "anchor": "length"
+      },
+      {
+        "id": "NP-09",
+        "severity": "Medium",
+        "title": "Passwords with weak complexity (fewer than 3 character classes)",
+        "count": 5,
+        "pct": "21.7%",
+        "base": 23,
+        "impact": "Low character variety greatly reduces the search space.",
+        "recommendation": "Enforce length-first policy plus a banned-password list rather than composition rules alone.",
+        "anchor": "strength"
+      },
+      {
+        "id": "NP-10",
+        "severity": "Medium",
+        "title": "Accounts cycling through the same passwords (history)",
+        "count": 2,
+        "pct": "100.0%",
+        "base": 2,
+        "impact": "Users rotate between a small set of passwords, so forced expiry gives little real protection.",
+        "recommendation": "Increase password history depth, block similar-to-previous passwords, and move away from forced expiry.",
+        "anchor": "history"
+      },
+      {
+        "id": "NP-11",
+        "severity": "Pass",
+        "title": "Disabled accounts with recovered passwords",
+        "count": 0,
+        "pct": "0.0%",
+        "base": 23,
+        "impact": "Disabled accounts can often be re-enabled by an attacker with sufficient rights.",
+        "recommendation": "Delete stale disabled accounts, or reset their passwords to long random values.",
+        "anchor": "accounts"
+      }
+    ],
+    "inputs": [
+      {
+        "role": "NTDS dump",
+        "path": "/home/claude/work/nullpat/sample_data/ntds_history_sample.txt",
+        "size": 2730,
+        "lines": 31,
+        "sha256": "2eea9b13eba3d3cdba759ed0316bd54196689d4f357f18ab5d00b6ed8f622e96"
+      },
+      {
+        "role": "Cracked list",
+        "path": "/home/claude/work/nullpat/sample_data/cracked_sample.txt",
+        "size": 1110,
+        "lines": 26,
+        "sha256": "ff018a919defbe369c3cb604b8dbdddd9f26891c41ca262f7377f83f24441c51"
+      },
+      {
+        "role": "History dump",
+        "path": "/home/claude/work/nullpat/sample_data/ntds_history_sample.txt",
+        "size": 2730,
+        "lines": 31,
+        "sha256": "2eea9b13eba3d3cdba759ed0316bd54196689d4f357f18ab5d00b6ed8f622e96"
+      },
+      {
+        "role": "Privileged list",
+        "path": "/home/claude/work/nullpat/sample_data/admins_sample.txt",
+        "size": 20,
+        "lines": 2,
+        "sha256": "bd32615168da9de781d46040ce78af2735ebc0cd36ada17b1ed06325cbb45e4d"
+      }
+    ],
+    "parse_stats": {
+      "ntds": {
+        "lines": 31,
+        "parsed": 31,
+        "skipped": 0,
+        "duplicates": 0,
+        "computers_excluded": 1,
+        "history_entries": 3
+      },
+      "cracked": {
+        "lines": 26,
+        "valid": 20,
+        "invalid": 1,
+        "duplicates": 5,
+        "hex_decoded": 0
+      },
+      "history": {
+        "lines": 31,
+        "parsed": 31,
+        "skipped": 0,
+        "duplicates": 0,
+        "computers_excluded": 0,
+        "history_entries": 3
+      }
+    }
+  }
+}

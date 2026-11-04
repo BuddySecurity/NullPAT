@@ -1,0 +1,16 @@
+full_name,password,pattern_label
+CORP\jsmith,Summer2024!,season + year pattern
+CORP\agarcia,Summer2024!,season + year pattern
+CORP\mkhan,Welcome123,contains 'welcome'
+CORP\rwilliams,Welcome123,contains 'welcome'
+CORP\tnguyen,P@ssw0rd1,contains 'password'
+CORP\dbrown,qwerty123,keyboard-walk pattern
+CORP\jpatel,Autumn2023,season + year pattern
+CORP\bmoore,Winter24!,season + year pattern
+CORP\cwright,Password1,contains 'password'
+CORP\nhassan,Password1,contains 'password'
+CORP\ewalsh,Password1,contains 'password'
+CORP\kbarnes,letmein1,contains 'letmein'
+CORP\vluong,ChangeMe2024,contains 'changeme'
+CORP\admin_j.doe,Summer2024!,season + year pattern
+CORP\q.zhang,Qwerty!2024,keyboard-walk pattern
