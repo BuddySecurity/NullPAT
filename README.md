@@ -15,6 +15,8 @@ NTDS dump, and reports the things an auditor or client actually needs to know: c
 password reuse, blank passwords, legacy LM hashes, privileged-account exposure, and
 password-hygiene trends.
 
+![Tool Screenshot](NULLPAT-2.png)
+
 ## What's different from DPAT
 
 | | DPAT | NullPAT |
