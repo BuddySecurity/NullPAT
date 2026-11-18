@@ -2,7 +2,7 @@
 
 > **Built by Ahmed Hasan (@BudSec)** &nbsp;·&nbsp;
 > [LinkedIn](https://www.linkedin.com/in/budsec) &nbsp;·&nbsp;
-> [GitHub](https://github.com/pentesterahmed) &nbsp;·&nbsp;
+> [GitHub](https://github.com/BuddySecurity) &nbsp;·&nbsp;
 > [YouTube](https://youtube.com/@BudSec)
 
 **NullPAT** (the **Null**-session **P**assword **A**udit **T**ool) is a from-scratch,
@@ -146,5 +146,5 @@ for testing — not real credentials.
 **Ahmed Hasan (@BudSec)**
 
 - LinkedIn: https://www.linkedin.com/in/budsec
-- GitHub: https://github.com/pentesterahmed
+- GitHub: https://github.com/BuddySecurity
 - YouTube: https://youtube.com/@BudSec
