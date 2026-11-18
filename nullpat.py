@@ -19,7 +19,7 @@ Typical use:
 
 Built by Ahmed Hasan (@BudSec)
     LinkedIn : https://www.linkedin.com/in/budsec
-    GitHub   : https://github.com/pentesterahmed
+    GitHub   : https://github.com/buddysecurity
     YouTube  : https://youtube.com/@BudSec
 
 Author note: this tool handles cleartext passwords. Treat every report it
@@ -47,7 +47,7 @@ VERSION = "1.1.0"
 AUTHOR_NAME = "Ahmed Hasan"
 AUTHOR_HANDLE = "@BudSec"
 AUTHOR_LINKEDIN = "https://www.linkedin.com/in/budsec"
-AUTHOR_GITHUB = "https://github.com/pentesterahmed"
+AUTHOR_GITHUB = "https://github.com/buddysecurity"
 AUTHOR_YOUTUBE = "https://youtube.com/@BudSec"
 
 EMPTY_LM = "aad3b435b51404eeaad3b435b51404ee"
@@ -166,7 +166,7 @@ def render_banner(pal: Palette, text: str = "NULLPAT", sub: str = "") -> str:
     if sub:
         out += "\n" + pal.dim("  " + sub)
     out += "\n" + pal.rgb(f"  Built by {AUTHOR_NAME} ({AUTHOR_HANDLE})", BLUE, bold=True) + pal.dim(
-        "  \u00b7  linkedin.com/in/budsec  \u00b7  github.com/pentesterahmed  \u00b7  youtube.com/@BudSec")
+        "  \u00b7  linkedin.com/in/budsec  \u00b7  github.com/buddysecurity  \u00b7  youtube.com/@BudSec")
     out += "\n" + rule
     return out
 
@@ -1508,7 +1508,7 @@ def render_html(results, meta, title):
   <div><div class="navtitle">Report sections</div><nav class="toc">{toc}</nav></div>
   <div class="authorcard"><b>{AUTHOR_NAME} ({AUTHOR_HANDLE})</b><span class="muted">Creator of NullPAT</span>
     <a href="{AUTHOR_LINKEDIN}" target="_blank" rel="noopener noreferrer">LinkedIn &mdash; /in/budsec</a>
-    <a href="{AUTHOR_GITHUB}" target="_blank" rel="noopener noreferrer">GitHub &mdash; pentesterahmed</a>
+    <a href="{AUTHOR_GITHUB}" target="_blank" rel="noopener noreferrer">GitHub &mdash; BuddySecurity</a>
     <a href="{AUTHOR_YOUTUBE}" target="_blank" rel="noopener noreferrer">YouTube &mdash; @BudSec</a></div>
 </aside>
 <main>
